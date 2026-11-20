@@ -39,7 +39,8 @@ void solve()
 
     /*
     1 X: Print the size of the connected components containing node X.
-    2 X Y: Print ‘YES’ (without quotes) if node X and Y belong to the same connected component, else print ‘NO’ (without quotes).
+    2 X Y: Print ‘YES’ (without quotes) if node X and Y belong to the same connected component,
+            else print ‘NO’ (without quotes).
     */
 
     int comp_no = 0;
