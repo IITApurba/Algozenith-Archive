@@ -1,3 +1,9 @@
+/*
+  Problem : ONLYREP
+  Link    : https://maang.in/problems/ONLYREP-588
+  Given   : Array of size N with values in 1..N-1; exactly one value is repeated.
+  Find    : The repeated number, using O(1) extra space.
+*/
 
 #include <bits/stdc++.h>
 using namespace std;

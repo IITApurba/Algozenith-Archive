@@ -1,3 +1,9 @@
+/*
+  Problem : Combination Sum I
+  Link    : https://maang.in/problems/Combination-Sum-I-868
+  Given   : Distinct integers candidates[] and a target; any number can be reused unlimited times.
+  Find    : All unique combinations that sum to target (each in non-decreasing order, printed sorted).
+*/
 
 #include <bits/stdc++.h>
 using namespace std;

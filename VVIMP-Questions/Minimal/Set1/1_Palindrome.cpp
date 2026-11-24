@@ -1,3 +1,10 @@
+/*
+  Problem : Palindrome
+  Link    : https://maang.in/problems/Palindrome-572
+  Given   : A string s (T test cases).
+  Find    : Can it become a palindrome by deleting at most one character? Print Y / N.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
