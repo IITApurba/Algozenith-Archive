@@ -1,10 +1,3 @@
-/*
-  Problem : Combination Sum II
-  Link    : https://maang.in/problems/Combination-Sum-II-869
-  Given   : Pick k numbers from 1..9, each used at most once.
-  Find    : All combinations whose sum is n.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,10 +1,3 @@
-/*
-  Problem : Super Frequent Number
-  Link    : https://maang.in/problems/Super-Frequent-Number-591
-  Given   : Array of n integers.
-  Find    : Element appearing more than floor(n/2) times, O(n) time, O(1) space.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

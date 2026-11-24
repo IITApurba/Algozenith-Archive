@@ -1,10 +1,3 @@
-/*
-  Problem : KSUM
-  Link    : https://maang.in/problems/KSUM-596
-  Given   : Array A of size N and integer K.
-  Find    : Length of the longest subarray whose sum is divisible by K.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

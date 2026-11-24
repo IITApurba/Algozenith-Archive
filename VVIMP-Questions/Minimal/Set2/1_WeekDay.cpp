@@ -1,10 +1,3 @@
-/*
-  Problem : WeekDay
-  Link    : https://maang.in/problems/WeekDay-636
-  Given   : A date as d, m, y.
-  Find    : Day of the week (Sunday..Saturday), ideally in O(1).
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,10 +1,3 @@
-/*
-  Problem : Message Decoding
-  Link    : https://maang.in/problems/Message-Decoding-351
-  Given   : A digit string s, where A=1, B=2, ..., Z=26.
-  Find    : Number of ways to decode s, mod 1e9+7.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

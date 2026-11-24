@@ -1,10 +1,3 @@
-/*
-  Problem : Josephus Problem
-  Link    : https://maang.in/problems/Josephus-Problem-586
-  Given   : n people in a circle; every k-th person is executed.
-  Find    : Position (1..n) of the last survivor.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

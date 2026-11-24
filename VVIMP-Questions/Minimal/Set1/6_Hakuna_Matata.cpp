@@ -1,10 +1,3 @@
-/*
-  Problem : Hakuna Matata
-  Link    : https://maang.in/problems/Hakuna-Matata--733
-  Given   : n x m grid + k queries: 'r x y' swap rows, 'c x y' swap columns, 'g x y' get cell.
-  Find    : The value at cell (x, y) for every 'g' query.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,10 +1,3 @@
-/*
-  Problem : Bilkul ricks nhi lena ka
-  Link    : https://maang.in/problems/Bilkul-ricks-nhi-lena-ka-810
-  Given   : Values of (a & b) and (a | b) for two positive integers a, b.
-  Find    : z = a + b.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

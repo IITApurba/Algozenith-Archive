@@ -1,10 +1,3 @@
-/*
-  Problem : Rain Water
-  Link    : https://maang.in/problems/Rain-Water-462
-  Given   : Elevation array A, bar width 1.
-  Find    : Total water trapped after rain.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

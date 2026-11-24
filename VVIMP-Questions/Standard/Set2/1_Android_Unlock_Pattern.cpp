@@ -1,10 +1,3 @@
-/*
-  Problem : Android Unlock Pattern
-  Link    : https://maang.in/problems/Android-Unlock-Pattern-486
-  Given   : 3x3 unlock grid; cells distinct, a line can't jump over an unvisited cell.
-  Find    : Number of valid patterns using exactly n cells.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

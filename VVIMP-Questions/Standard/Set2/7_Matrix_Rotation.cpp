@@ -1,10 +1,3 @@
-/*
-  Problem : Matrix Rotation
-  Link    : https://maang.in/problems/Matrix-Rotation-610
-  Given   : n x n matrix.
-  Find    : The matrix rotated 90 degrees clockwise, in place.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

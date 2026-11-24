@@ -1,10 +1,3 @@
-/*
-  Problem : Buy and Sell Stock 3
-  Link    : https://maang.in/problems/Buy-and-Sell-Stock-3-278
-  Given   : Stock prices for N days; at most 2 transactions, hold one stock at a time.
-  Find    : Maximum profit.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

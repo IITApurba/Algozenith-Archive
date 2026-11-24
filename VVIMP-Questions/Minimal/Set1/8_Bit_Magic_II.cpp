@@ -1,10 +1,3 @@
-/*
-  Problem : Bit Magic II
-  Link    : https://maang.in/problems/Bit-Magic-II-873
-  Given   : Integer n (t test cases).
-  Find    : 6 answers: 64-bit binary of n, MSB position, rightmost set bit position, is power of 2?, largest power of 2 dividing n, smallest power of 2 >= n.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

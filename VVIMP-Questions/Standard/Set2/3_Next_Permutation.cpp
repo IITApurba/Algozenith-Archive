@@ -1,10 +1,3 @@
-/*
-  Problem : Next Permutation
-  Link    : https://maang.in/problems/Next-Permutation-593
-  Given   : Array of n integers.
-  Find    : Next lexicographically greater permutation (smallest one if none), in place, no built-ins.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

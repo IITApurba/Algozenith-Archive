@@ -1,10 +1,3 @@
-/*
-  Problem : BLAWHI
-  Link    : https://maang.in/problems/BLAWHI-603
-  Given   : N x M chessboard.
-  Find    : Ways to place one black + one white knight so they don't attack each other, mod 1e9+7.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,10 +1,3 @@
-/*
-  Problem : Tallest Stack
-  Link    : https://maang.in/problems/Tallest-Stack-599
-  Given   : n box types (h, w, l), unlimited copies, any rotation; a box goes on another only if both base sides are strictly smaller.
-  Find    : Height of the tallest stack.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

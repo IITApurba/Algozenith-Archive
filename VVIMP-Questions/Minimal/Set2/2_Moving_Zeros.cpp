@@ -1,10 +1,3 @@
-/*
-  Problem : Moving Zeros
-  Link    : https://maang.in/problems/Moving-Zeros-597
-  Given   : Integer array nums.
-  Find    : Move all zeros to the end in place, keeping the order of the rest (O(1) space, few swaps).
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

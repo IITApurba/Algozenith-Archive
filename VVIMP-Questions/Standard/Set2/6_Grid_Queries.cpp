@@ -1,10 +1,3 @@
-/*
-  Problem : Grid Queries
-  Link    : https://maang.in/problems/Grid-Queries-587
-  Given   : n x m grid, rows and columns sorted ascending; q queries x.
-  Find    : Is x in the grid? (Yes / No), O(1) extra space.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

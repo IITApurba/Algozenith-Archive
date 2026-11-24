@@ -1,10 +1,3 @@
-/*
-  Problem : SWAPBIT
-  Link    : https://maang.in/problems/SWAPBIT-600
-  Given   : Unsigned integer N.
-  Find    : N after swapping every odd bit with its neighbouring even bit, in O(1).
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

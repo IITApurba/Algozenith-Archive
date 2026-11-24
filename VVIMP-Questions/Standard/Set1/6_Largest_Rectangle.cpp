@@ -1,10 +1,3 @@
-/*
-  Problem : Largest Rectangle
-  Link    : https://maang.in/problems/Largest-Rectangle-461
-  Given   : Histogram of N bars, each of width 1.
-  Find    : Largest rectangle area made of contiguous bars.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,10 +1,3 @@
-/*
-  Problem : REVBIT
-  Link    : https://maang.in/problems/REVBIT-632
-  Given   : Unsigned 32-bit integer N.
-  Find    : The number formed by reversing its 32 bits.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

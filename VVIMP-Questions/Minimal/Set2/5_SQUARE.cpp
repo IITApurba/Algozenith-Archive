@@ -1,10 +1,3 @@
-/*
-  Problem : SQUARE
-  Link    : https://maang.in/problems/SQUARE-629
-  Given   : Four points (x, y).
-  Find    : 1 if they form a valid square, else 0.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

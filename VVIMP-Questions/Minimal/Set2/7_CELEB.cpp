@@ -1,10 +1,3 @@
-/*
-  Problem : CELEB
-  Link    : https://maang.in/problems/CELEB-594
-  Given   : N x N matrix, M[i][j] = 1 if person i knows person j.
-  Find    : Index of the celebrity (knows nobody, known by all), else -1. O(N) time, O(1) space.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

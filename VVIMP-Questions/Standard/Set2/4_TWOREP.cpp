@@ -1,10 +1,3 @@
-/*
-  Problem : TWOREP
-  Link    : https://maang.in/problems/TWOREP-590
-  Given   : Array of 2N+2 numbers: N values appear twice, 2 values appear once.
-  Find    : The 2 non-repeating values in ascending order, O(1) extra space.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

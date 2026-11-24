@@ -1,10 +1,3 @@
-/*
-  Problem : COLORSORT
-  Link    : https://maang.in/problems/COLORSORT-630
-  Given   : Array of N elements containing only 0, 1, 2.
-  Find    : The sorted array (sort in place).
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

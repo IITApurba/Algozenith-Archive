@@ -1,10 +1,3 @@
-/*
-  Problem : Buy and Sell Stock 4
-  Link    : https://maang.in/problems/Buy-and-Sell-Stock-4-279
-  Given   : Stock prices for N days; at most K transactions.
-  Find    : Maximum profit.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,10 +1,3 @@
-/*
-  Problem : Non Consecutive Sum
-  Link    : https://maang.in/problems/Non-Consecutive-Sum-601
-  Given   : Array A of size N.
-  Find    : Maximum subset sum with no two adjacent elements.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

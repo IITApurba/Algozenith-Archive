@@ -1,10 +1,3 @@
-/*
-  Problem : Minimum Platforms
-  Link    : https://maang.in/problems/Minimum-Platforms-612
-  Given   : N trains with arrival and departure times (same time = conflict).
-  Find    : Minimum number of platforms so no train waits.
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 

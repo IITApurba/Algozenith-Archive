@@ -1,10 +1,3 @@
-/*
-  Problem : Stone Jumps
-  Link    : https://maang.in/problems/Stone-Jumps-616
-  Given   : n stones, a[i] = max jump length from stone i; start at stone 1.
-  Find    : Can you reach stone n? (Yes / No)
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 
