@@ -3,49 +3,31 @@ using namespace std;
 
 #define int long long
 
-int n, m;
-vector<int> x, y;
-int dp[1010][1010];
-
-int rec(int idx, int rem)
-{
-    // Base case
-    if (idx == n) return 0;
-
-    // Pruning
-    if (rem == 0) return 0;
-
-    // Cache check
-    if (dp[idx][rem] != -1)
-        return dp[idx][rem];
-
-    // Transition
-    int take = 0;
-
-    for (int i = 1; i <= min(x[idx], rem); i++)
-    {
-        take = max(take, i * y[idx] + rec(idx + 1, rem - i));
-    }
-
-    int not_take = rec(idx + 1, rem);
-
-    // Save and return
-    return dp[idx][rem] = max(take, not_take);
-}
-
 void solve()
 {
+    int n, m;
     cin >> n >> m;
 
-    x.resize(n);
-    y.resize(n);
-
-    memset(dp, -1, sizeof(dp));
+    vector<int> cnt(1001, 0); // cnt[v] = total boxes with v vials
 
     for (int i = 0; i < n; i++)
-        cin >> x[i] >> y[i];
+    {
+        int x, y;
+        cin >> x >> y;
+        cnt[y] += x; // same y wale saare boxes ek bucket me
+    }
 
-    cout << rec(0, m) << '\n';
+    int ans = 0, rem = m;
+
+    // bucket 1000 se neeche: sabse zyada vials pehle
+    for (int v = 1000; v >= 1 && rem > 0; v--)
+    {
+        int take = min(cnt[v], rem);
+        ans += take * v;
+        rem -= take;
+    }
+
+    cout << ans << '\n';
 }
 
 signed main()
